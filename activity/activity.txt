@@ -1,0 +1,35 @@
+What is the name of the package used to install the MongoDB Server?
+Answer: sudo apt-get install -y mongodb-org
+
+What is the command used to determine the status of the MongoDB Server?
+Answer: sudo systemctl status mongodb
+
+What is the default port used by MongoDB Server?
+Answer: 27017
+
+What is the setting name in configuration file of MongoDB Serveresponsible for allowing access other than localhost (127.0.0.1)?
+Answer: bindIp
+
+What is the name of the command used to connect to a MongoDB Server while using a terminal?
+Answer: mongosh mongodb://localhost:27017
+
+Specify the complete location of the MongoDB Server configuration file.
+Answer: /etc/mongod.conf
+
+Changes made in the configuration file of MongoDB Server are automatically applied.
+Answer: True
+
+What is the command used to copy a file?
+Answer: cp
+
+What is the file used to declare an application's environment variables?
+Answer: .env.example .env
+
+What is the first command to be used before starting a Node.js application?
+Answer: npm start
+
+What is the protocol used to enable inbound connection to port 27017 and 4000?
+Answer: TCP
+
+The PM2 package is what kind of program according to its home page?
+Answer: process manager
